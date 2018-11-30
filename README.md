@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+My first repository in github
+I like to learn about space  
